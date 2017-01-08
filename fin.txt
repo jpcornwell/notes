@@ -1,0 +1,53 @@
+This repo is a means of solidifying my understanding of personal finance.
+
+
+banks
+  what is a bank
+    institution that deals in money and provides financial services, accepts
+     deposits and lends money out, will derive profit by the difference in 
+     interest rates charged and interest rates paid, can profit from other
+     things too such as investments
+  how banks operate
+    amount of lending is directly affected by the reserve requirement set by
+     the Federal Reserve
+    highly regulated by government
+  why use a bank
+    earn interest
+    services like checks and debit cards make handling money transactions easier
+fdic
+if a you have issues with your bank that are not resolved by the manager
+  then contact CFPB (consumer financial protection bureau)
+credit union
+  credit unions are not-for-profit institutions that are member-focused
+  typically have better rates than banks
+  are typically smaller, may be better for local use, but worse for people who travel internationally
+checking and savings accounts
+money market account
+  a savings account with more restrictions and higher interest paid
+certificate of deposit
+  an account where you put in a specific amount of money for a specific amount
+   of time in exchange for a higher interest rate, can't withdraw until then
+  note to self: how is this different than a bond or loan
+    CDs are FDIC insured
+    bonds pay interest periodially over time while CDs pay all at once when they mature
+interest
+checks
+debit card
+
+
+credit card
+credit rating
+
+
+taxes
+insurance
+  car insurance
+  life insurance
+
+
+investments
+401k
+IRAs
+stocks
+bonds
+mutual funds
